@@ -2,7 +2,8 @@
 
 ## ChurnZero — Cost-Aware Customer Churn Intelligence Framework
 
-### *Shreyas Mishra*
+### *Shreyas Mishra*, access here - * https://colab.research.google.com/drive/1HLsCeeLOCwgdTiXveICooPP4nDqQOHRq#scrollTo=flNeINzYmMhK
+ *
 
 ---
 
